@@ -1,0 +1,6 @@
+project/models/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+agriwise sivas full.zip
