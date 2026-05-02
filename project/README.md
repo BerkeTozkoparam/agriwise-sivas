@@ -48,6 +48,15 @@ project/
 | Don Sınıflandırma (XGBoost) | F1 (weighted) | **0.986** |
 | Tarım Uygunluk (XGBoost) | MAE | **0.198** |
 
+## Geliştirici Ekip
+
+| | |
+|---|---|
+| **Berke Baran Tozkoparan** | Model geliştirme, backend |
+| **Aliyenur Bulduk** | Geliştirme |
+
+---
+
 ## VM Deploy (Hackathon)
 
 ```bash
